@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first GIT repository
-Author - Alluri Abhiram
+Author - Alluri Sai Abhirama Raju
